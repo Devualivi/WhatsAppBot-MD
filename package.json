@@ -1,5 +1,5 @@
 {
-  "name": "AlienAlfaBot-MD",
+  "name": "Alviser-MD",
   "version": "2.3.0",
   "description": "Beta Test By an Alien",
   "main": "index.js",
@@ -10,7 +10,7 @@
   },
   "nodemonConfig": {
     "ignore": [
-      "/root/AlienAlfa/*"
+      "/root/Alviser/*"
     ],
     "delay": 2500
   },
@@ -20,7 +20,7 @@
     "2021",
     "wabase-md"
   ],
-  "author": "Alien-Alfa.",
+  "author": "Alvin-ser.",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.1.0",
