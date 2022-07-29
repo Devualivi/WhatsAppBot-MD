@@ -14,7 +14,7 @@
 //                                                                                                                                                     //
 //═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════//
 
-// Obfuscated By AlienAlfa
+// Obfuscated By Alviser
 // Unecrypted file Willbe relesed Soon
 // Full file will be relised After all BUGS Has been Fixed
 
@@ -22,7 +22,7 @@
 /**
    * MIT License
 * 
-   * Copyright (c) 2021 Alien-Alfa.
+   * Copyright (c) 2021 Alvi-ser.
 * 
    * Permission is hereby granted, free of charge, to any person obtaining a copy
    * of this software and associated documentation files (the "Software"), to deal
